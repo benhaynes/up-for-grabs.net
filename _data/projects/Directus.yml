@@ -1,0 +1,16 @@
+name: Directus
+desc: A headless CMS/API that manages project content in SQL databases with custom architectures.
+site: https://github.com/directus/directus
+tags:
+- javascript
+- backbonejs
+- php
+- cms
+- headless
+- decoupled
+- sql
+- mysql
+- database
+upforgrabs:
+  name: Help%20Wanted
+  link: https://github.com/directus/directus/labels/Help%20Wanted
