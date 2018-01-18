@@ -1,6 +1,6 @@
 name: debugger.html
-desc: Next generation JS debugger built for the web and Firefox
-site: https://github.com/jlongster/debugger.html
+desc: The Firefox debugger that works anywhere
+site: https://github.com/devtools-html/debugger.html
 tags:
 - oss
 - web
@@ -10,5 +10,5 @@ tags:
 - debugger
 - mozilla
 upforgrabs:
-  name: up for grabs
-  link: https://github.com/jlongster/debugger.html/labels/up%20for%20grabs
+  name: available
+  link: https://github.com/devtools-html/debugger.html/labels/available
